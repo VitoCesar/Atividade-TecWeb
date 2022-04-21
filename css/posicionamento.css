@@ -1,0 +1,53 @@
+div{
+  height: 5vh;
+  position: fixed;
+  width: 100%;
+}
+
+.div1 ,.div2, .div3, .div4, .div5, .div6, .div7{
+  position: fixed;
+  border-radius: 10px;
+}
+
+.div1{
+  background: red;
+  height: 5vh;
+  z-index: -1;
+}
+
+.div2{
+  background: blue;
+  margin-top: 2vh;
+  left: 5%;
+}
+
+.div3{
+  background: green;
+  margin-top: 4vh;
+  left: 10%;
+}
+
+.div4{
+  background: yellow;
+  margin-top: 8vh;
+  left: 15%;
+}
+
+.div5{
+  background: purple;
+  margin-top: 10vh;
+  left: 20%;
+}
+
+.div6{
+  background: peru;
+  margin-top: 12vh;
+  left: 25%;
+}
+
+.div7{
+  background: antiquewhite;
+  left: 35%;
+  width: 10%;
+  height: 17%;
+}

@@ -1,0 +1,21 @@
+.tag{
+  color: #ff0000c0;
+}
+
+#exemplo{
+  background-color: beige;
+}
+
+div{
+  padding: 10px;
+  margin: 10px;
+  padding-bottom: 20px;
+  border-top: 5px solid black;
+}
+
+li{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  color: greenyellow;
+}

@@ -1,0 +1,15 @@
+.div1{
+  display: none;
+}
+
+span{
+  display: block;
+}
+
+div{
+  display: inline;
+}
+
+li{
+  display: inline-block;
+}

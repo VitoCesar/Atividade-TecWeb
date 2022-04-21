@@ -1,0 +1,13 @@
+.titulo{
+  position: fixed
+}
+
+.menu{
+  width: 10vw;
+  height: 10vh;
+}
+
+.corpo{
+  width: 50vw;
+  height: 50vh;
+}

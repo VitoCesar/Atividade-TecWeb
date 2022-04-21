@@ -1,0 +1,14 @@
+.box{
+  display: flex;
+  border: 1px solid;
+}
+
+.c1, .c2, .c3{
+  border: solid 1px;
+  padding: 5%;
+  margin: 5%;
+}
+
+div{
+  border: 1px solid;
+}
